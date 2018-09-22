@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Ecommerce_Home", "Ecommerce_Home\", "{F49ECAD6-D01E-45E0-88E1-FF8772B1A3B1}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64257"
+		Debug.AspNetCompiler.PhysicalPath = "Ecommerce_Home\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64257\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64257"
+		Release.AspNetCompiler.PhysicalPath = "Ecommerce_Home\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64257\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64257"
+		SlnRelativePath = "Ecommerce_Home\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P21Sep2018_reg_validation", "P21Sep2018_reg_validation\P21Sep2018_reg_validation.csproj", "{E7F1C01E-055C-476B-B49F-EB7652D6C22A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F49ECAD6-D01E-45E0-88E1-FF8772B1A3B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F49ECAD6-D01E-45E0-88E1-FF8772B1A3B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F49ECAD6-D01E-45E0-88E1-FF8772B1A3B1}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{F49ECAD6-D01E-45E0-88E1-FF8772B1A3B1}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{E7F1C01E-055C-476B-B49F-EB7652D6C22A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F1C01E-055C-476B-B49F-EB7652D6C22A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F1C01E-055C-476B-B49F-EB7652D6C22A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F1C01E-055C-476B-B49F-EB7652D6C22A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41E307FE-DC21-476E-87D7-62C2E583A39C}
+	EndGlobalSection
+EndGlobal
