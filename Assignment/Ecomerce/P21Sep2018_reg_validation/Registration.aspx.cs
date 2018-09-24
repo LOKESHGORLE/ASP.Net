@@ -53,7 +53,7 @@ namespace P21Sep2018_reg_validation
             {
 
                
-                    CompleteDetails = PersonalDt[CustCount].FirstName + "\n" +
+                    CompleteDetails += PersonalDt[CustCount].FirstName + "\n" +
                                   PersonalDt[CustCount].LastName + "\n" +
                                   PersonalDt[CustCount].Gender + "\n" +
                                   PersonalDt[CustCount].Country + "\n" +
